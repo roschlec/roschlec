@@ -8,26 +8,42 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 30
-
+   
 title: Skills
-subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
+  - description: 80%
+    icon: bacteria
+    icon_pack: fas
+    name: Microbiology
+  - description: 75%
+    icon: dna
+    icon_pack: fas
+    name: Molecular Biology
+  - description: 80%
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 100%
+  - description: 65%
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 10%
-    icon: camera-retro
+  - description: 70%
+    icon: microscope
     icon_pack: fas
-    name: Photography
+    name: Microscopy
+  - description: 70%
+    icon: file-image
+    icon_pack: fas
+    name: Image Analysis
+  - description: 95%
+    icon: mug-hot
+    icon_pack: fas
+    name: Coffee
+    
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

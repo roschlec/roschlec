@@ -1,49 +1,42 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Microbiology
+    institution: University of Canterbury, New Zealand
+    year: 2021
+  - course: MSc (eq.) in Biochemistry
+    institution: Pontificia Universidad Católica de Chile
+    year: 2014
+  - course: BSc in Biochemistry
+    institution: Pontificia Universidad Católica de Chile
+    year: 2013
 email: ""
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Microbial Ecology
+- Synthetic Biology
+- Plant Microbiology
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Freie Universität Berlin
+  url: https://www.fu-berlin.de/
+role: Postdoc
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/rschlec
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.de/citations?hl=de&view_op=list_works&gmla=AJsN-F7jvfcpRYOtYxqd0QalbMuatkTBQplTqw8UjjiQk9xSK5TyfvYeSpFVLROAz6Kqxa6YX-Ptfvx2G4EfIvLNxSDb5XCQfNXspGdZDP9SQ8U5N3ROmO8&user=D3zhLzEAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/roschlec/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/roschlechter/
 superuser: true
-title: Nelson Bighetti
+title: Rudolf Schlechter
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
