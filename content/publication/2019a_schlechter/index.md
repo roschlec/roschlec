@@ -18,7 +18,7 @@ doi: "10.1016/j.jare.2019.03.003"
 featured: false
 
 projects:
-- example
+- phyllosphere
 
 url_pdf: "pdf/2019a_schlechter.pdf"
 

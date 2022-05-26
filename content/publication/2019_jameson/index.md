@@ -22,9 +22,6 @@ doi: "10.3389/fpls.2019.00674"
 
 featured: false
 
-projects:
-- example
-
 url_pdf: "pdf/2019_jameson.pdf"
 
 ---

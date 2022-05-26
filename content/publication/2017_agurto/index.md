@@ -24,7 +24,7 @@ doi: "10.3389/fpls.2017.00758"
 featured: false
 
 projects:
-- example
+- grapevine
 
 url_pdf: "pdf/2017_agurto.pdf"
 

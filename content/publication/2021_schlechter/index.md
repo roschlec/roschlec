@@ -19,7 +19,7 @@ doi: "10.1128/AEM.00982-21"
 featured: false
 
 projects:
-- example
+- synthetic-biology
 
 url_pdf: "pdf/2021_schlechter.pdf"
 

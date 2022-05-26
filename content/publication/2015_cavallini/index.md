@@ -25,7 +25,7 @@ doi: "10.1104/pp.114.256172"
 featured: false
 
 projects:
-- example
+- grapevine
 
 url_pdf: "pdf/2015_cavallini.pdf"
 

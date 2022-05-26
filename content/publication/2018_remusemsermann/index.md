@@ -17,7 +17,7 @@ doi: "10.1111/nph.15054"
 featured: false
 
 projects:
-- example
+- phyllosphere
 
 url_pdf: "pdf/2018_remusemsermann.pdf"
 

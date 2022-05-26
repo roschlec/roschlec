@@ -20,7 +20,7 @@ doi: "10.3390/microorganisms8040464"
 featured: false
 
 projects:
-- example
+- phyllosphere
 
 url_pdf: "pdf/2020_miebach.pdf"
 

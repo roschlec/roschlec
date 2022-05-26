@@ -24,7 +24,7 @@ doi: "10.3389/fmicb.2018.03052"
 featured: false
 
 projects:
-- example
+- synthetic-biology
 
 url_pdf: "pdf/2018_schlechter.pdf"
 

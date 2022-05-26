@@ -17,6 +17,6 @@ doi: "10.21769/BioProtoc.3199"
 featured: false
 
 projects:
-- example
+- synthetic-biology
 
 ---

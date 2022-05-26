@@ -18,7 +18,7 @@ doi: "10.3390/bacteria1010006"
 featured: false
 
 projects:
-- example
+- synthetic-biology
 
 url_pdf: "pdf/2022_stocks.pdf"
 

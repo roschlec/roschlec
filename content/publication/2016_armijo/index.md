@@ -22,7 +22,7 @@ doi: "10.3389/fpls.2016.00382"
 featured: false
 
 projects:
-- example
+- grapevine
 
 url_pdf: "pdf/2016_armijo.pdf"
 

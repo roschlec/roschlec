@@ -25,7 +25,7 @@ doi: "10.1093/dnares/dsw028"
 featured: false
 
 projects:
-- example
+- grapevine
 
 url_pdf: "pdf/2016_wong.pdf"
 

@@ -22,7 +22,7 @@ doi: "10.4067/S0716-97602013000400003"
 featured: false
 
 projects:
-- example
+- grapevine
 
 url_pdf: "pdf/2013_espinoza.pdf"
 
