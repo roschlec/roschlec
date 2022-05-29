@@ -3,8 +3,8 @@
 
 title: "Synthetic Biology"
 summary: ""
-authors: []
-tags: []
+authors: [admin, reLAB]
+tags: [methods, cloning, fluorescent tags]
 categories: []
 date: 2022-05-26T13:20:10+02:00
 
@@ -16,7 +16,7 @@ external_link: ""
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Smart"
   preview_only: false
 
 # Custom links (optional).
@@ -39,3 +39,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Bacterial individuality can only be acknowledge at the single-cell level. To observe bacterial cells, we have developed a series of plasmids to tag them with unique fluorescent proteins. These plasmids are based on an expression, Tn5- and Tn7-delivery vectors. Check them out <a href = "https://www.frontiersin.org/articles/10.3389/fmicb.2018.03052/full" target="_blank">here!</a>. If you're interested in them, they're also available on <a href = "https://www.addgene.org/browse/article/28196767/" target="_blank">Addgene.org</a>
+
+We keep improving on our abilities to modify non-model microorganisms through new methods and tools. I'm currently working on new tools based on a CRISPR system and different transposase genes.
+
+Also, I'm involved in the development of bioreporters that would inform us on bacterial activity and physiology in the phyllosphere at the micrometre resolution.
