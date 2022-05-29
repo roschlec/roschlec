@@ -39,3 +39,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+<img src="smx2.tif" style="display: block; float:right; margin-left:10px; width: 30%"/>
+
+The aerial parts of plants --leaves, stems, flowers-- are considered as the phyllosphere. This environment is oligotrophic and heterogeneous for microbes to live on. Resources are limited and unevenly distributed. Thus, different possibilities would explain : (1) competition is high and bacteria have low degree of resource overlap between them to allow coexistence (increased niche stabilisation); (2) competition is low and bacteria are metabolically dependent on each other or on certain taxa; (3) they associate randomly and can tolerate each other without impacting on each other's population growth. These are questions I tried to tackle during my PhD and certainly am still interested in answering.
+
+Using <i>Arabidopsis thaliana</i> as a host model, I'm using synthetic bacterial communities to understand the spatial patterns between bacterial taxa (mainly between <i>Sphingomonas</i> and <i>Methylobacteria</i>) and factors that affect their interactions in the phyllosphere.
